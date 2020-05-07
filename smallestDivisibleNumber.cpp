@@ -18,7 +18,7 @@ long long getSmallestDivNum(int num)
 }
 
 int main()
-{
+{ 
     int test, n;
     cin >> test;
     while (test--)
